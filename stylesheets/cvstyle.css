@@ -1,0 +1,41 @@
+ body
+ {
+	 font-family: 'montserrat', sans-serif;
+ }
+ #wrapper
+ {
+	 height: 100vh;	 
+	 
+ }
+ .head-navbar
+ {
+	background: transparent;
+	border: none;
+ }
+ 
+  .head-navbar .navbar-header  a
+ {
+	 color: #fff;
+	 font-weight: 700;
+	 letter-spacing: 5px;
+ }
+ 
+ #header-right-links  li a 
+ {
+	 color: #fff;
+	 margin-top: 10px;
+	 font-weight: 700;
+	 letter-spacing: 5px;
+ }
+ #header-right-links  li a span
+ {
+	 padding-bottom: 10px;
+ }
+ #header-right-links  li a span.active
+ {
+	border-bottom: 3px solid #fff; 
+ }
+  #header-right-links  li a span:hover
+  {
+	  border-bottom: 3px solid #fff;
+  }
